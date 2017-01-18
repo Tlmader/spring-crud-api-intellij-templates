@@ -4,7 +4,7 @@ import org.springframework.stereotype.Component;
  * Implements data access methods for ${NAME} entities.
  *
  * @author tlmader.dev@gmail.com
- * @since 2016-12-30
+ * @since ${DATE}
  */
 @Component
 public class ${NAME}Repository extends CrudRepository<${NAME}> {
